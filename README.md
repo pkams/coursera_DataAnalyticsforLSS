@@ -1,5 +1,5 @@
 # Data Analytics for LeanSixSigma
-Notebook com resoluções e andamento do curso Data Analytics for Lean Six Sigma da Universidade de Amsterdam pela plataforma Coursera.
+Notebook com resoluções e aplicações do curso Data Analytics for Lean Six Sigma da Universidade de Amsterdam pela plataforma Coursera.
 
 Este foi um curso de Data Analytics voltado a aplicação das ferramentas de Lean Six Sigma da Universidade de Amsterdam, oferecido pela plataforma Coursera.
 Neste curso foram abordadas diversas técnicas de análise de dados que normalmente são úteis nos projetos de melhoria contínua utilizando Lean Six Sigma. Foram apresentadas diversos exemplos de como usar as ferramentas para analisar e interpretar os dados coletados em projetos desse tipo, enfatisando a interpretação dos resultados e as validações estatísticas.

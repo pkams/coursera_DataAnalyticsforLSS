@@ -7,5 +7,5 @@ Os tópicos do curso abordaram abordagem de análise de dados e conceitos estat�
 - Estatística descritiva
 - Visualização de dados numéricos e categóricos
 - Distribuições de probabilidade
-- Relações entre váriaves X e Y (categóricos e numéricos e suas possíveis combinações)
+- Relações entre X e Y (categóricos e numéricos e suas possíveis combinações)
 - Regressão Linear e Regressão Logistica
